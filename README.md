@@ -6,6 +6,7 @@ Topics:
 1. Functions Revisited in Complex
 2. Integration Techniques
 3. Parametric Equations and Polar Coordinates
-4. Generating Functions and Infinite Series
+4. Infinite Series Manipulation Methods
+5. Functions Redefined in ODEs
 
 The documents would not only save time for exercise searching and problem shooting, but moreover hopefully make a great difference in students' maths thinking and knowledge structure.
